@@ -11,7 +11,7 @@ import factory.BrowserFactory;
 import helper.ConfigReader;
 import helper.Utility;
 
-public class SampletListener implements ITestListener
+public class testListener implements ITestListener
 {
 	
 }
